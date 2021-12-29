@@ -1,0 +1,9 @@
+{
+  "name": "gen-art-scripts",
+  "version": "1.0.0",
+  "author": "wong2",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.5.2"
+  }
+}
